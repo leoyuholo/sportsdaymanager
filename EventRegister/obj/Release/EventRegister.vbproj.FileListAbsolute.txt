@@ -1,0 +1,71 @@
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Release\EventRegister.exe
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Release\EventRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Release\EventRegister.xml
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.exe
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.xml
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Release\EventRegister.pdb
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Release\EventRegister.exe
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Release\EventRegister.pdb
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Release\EventRegister.xml
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.Form1.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.Form2.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.Resources.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.exe
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.xml
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Release\EventRegister.pdb
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Release\EventRegister.exe
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Release\EventRegister.pdb
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Release\EventRegister.xml
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Release\MySql.Data.dll
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\ResolveAssemblyReference.cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.Form1.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.Form2.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.Resources.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.vbproj.GenerateResource.Cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.exe
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.xml
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Release\EventRegister.pdb
+I:\CD\SportsDayManager\EventRegister\bin\Release\EventRegister.exe
+I:\CD\SportsDayManager\EventRegister\bin\Release\EventRegister.pdb
+I:\CD\SportsDayManager\EventRegister\bin\Release\EventRegister.xml
+I:\CD\SportsDayManager\EventRegister\bin\Release\MySql.Data.dll
+I:\CD\SportsDayManager\EventRegister\obj\Release\ResolveAssemblyReference.cache
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.Form1.resources
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.Form2.resources
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.Resources.resources
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.vbproj.GenerateResource.Cache
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.exe
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.xml
+I:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.pdb
+G:\CD\SportsDayManager\EventRegister\bin\Release\EventRegister.exe
+G:\CD\SportsDayManager\EventRegister\bin\Release\EventRegister.pdb
+G:\CD\SportsDayManager\EventRegister\bin\Release\EventRegister.xml
+G:\CD\SportsDayManager\EventRegister\obj\Release\ResolveAssemblyReference.cache
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.Form1.resources
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.Form2.resources
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.Resources.resources
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.vbproj.GenerateResource.Cache
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.exe
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.xml
+G:\CD\SportsDayManager\EventRegister\obj\Release\EventRegister.pdb
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\bin\Release\EventRegister.exe
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\bin\Release\EventRegister.pdb
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\bin\Release\EventRegister.xml
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\bin\Release\MySql.Data.dll
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\ResolveAssemblyReference.cache
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.Form1.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.Form2.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.Resources.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.vbproj.GenerateResource.Cache
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.exe
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.xml
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Release\EventRegister.pdb

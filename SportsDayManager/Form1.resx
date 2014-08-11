@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>166, 17</value>
+  </metadata>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>Sports Day Manager
+
+
+Welcome to use Sports Day Manager, here is some guideline for using Sports Day Manager to plan your sports day.
+
+Step1: Create your project in "File -&gt; New Project" and set password to protect your project from unauthorized accesses and modifications.
+
+Step2: Enter basic data  through "Data Entry Wizard" in "Tools". And click "Start" in the last page to start registering process. You may use the sub program to let students register the events by their own.
+
+Step3: Register events and helperteam through "Event Register" and "Helper Register" in "Tools". Then click "Grouping and Assign Lanes" in "Grouping and Distribute Lanes", which is in "Tools".
+
+Step4: Plan your sports day time table through "Generate Timetable" in "Tools". Enter estimated the time needed for holding each event and choose the start time of the event. Click "Start" in the last page and you have finished the preparation process.
+
+*If you want to print out any data, find the little buttons called "Print" in the right bottom coner, it can help you to convert data into html format and open in your web browser.
+**If you want to print out athletes' number clothes, please use the button "Print" in the page of registered event (by student). And then copy the content of the html to a Microsoft Excel file. Then you can use the mail merge function of Microsoft Word to print out the number clothes for the athletes.
+
+Step5: Enter results of events through "Update Results" in "Tools". And you can view the results, finals lanes distribution, award owners, personal scores as well as house scores in "Result Monitor", which you can find in "Tools"
+
+After you finished Step5, you have completed your sports day. If you get any questions, check it up in "Help", or you may contact me.</value>
+  </data>
+  <data name="RichTextBox3.Text" xml:space="preserve">
+    <value>SportsDay Manager
+
+File--&gt;Load Project
+You can called out a program for debugging and building basic tables by inputting "DebugToolsBox" in the password box.
+
+Setting--&gt;ConnectionSettings
+It is the settings of connection to the MySQL database server. Changing the setting may cause the system fail to communicate with the server.
+
+Tools--&gt;Data Entry Wizard
+Import Student Through MySQL needs accurate information for connecting to the other MySQL server. And also make sure the columns name inputted are correct.
+
+Sub-Program: Event Register
+You can call out the settings screen by inputting "SETTINGS" as student id and "sportsdaymanager" as password.
+
+Tools--&gt;Generate Time Table
+You can add special events by using "Add Special Events". And use "Time Table Cleaner" if you want to remove the events on the time table.
+
+Tools--&gt;Update Results
+You can input the results once only. If you need to modify the inputted results, you have to use "Result Monitor".
+
+Tools--&gt;Result Monitor
+You can modify the results in this program, but password is needed for avoiding cheating. You can adjust the individuals and houses scores if some special scores awarded to individuals or houses.</value>
+  </data>
+  <metadata name="MySqlConnection1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>274, 17</value>
+  </metadata>
+</root>

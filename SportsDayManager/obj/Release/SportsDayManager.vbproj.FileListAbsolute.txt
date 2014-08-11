@@ -1,0 +1,238 @@
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form10.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form11.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form12.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form13.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form14.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form15.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form16.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form17.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form18.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form19.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form20.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form9.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.exe
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.pdb
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.xml
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form21.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form22.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form23.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form24.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form25.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.exe
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.xml
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.pdb
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form26.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form27.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form28.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form29.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form8.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.exe
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.xml
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.pdb
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.exe
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.pdb
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.xml
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form10.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form11.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form12.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form13.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form14.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form15.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form16.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form17.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form18.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form19.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form20.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form21.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form22.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form23.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form24.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form25.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form26.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form27.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form28.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form29.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form30.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form8.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form9.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.vbproj.GenerateResource.Cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.exe
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.pdb
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.xml
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\bin\Release\MySql.Data.dll
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\ResolveAssemblyReference.cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form1.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form10.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form11.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form12.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form13.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form14.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form15.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form16.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form17.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form18.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form19.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form2.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form20.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form21.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form22.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form23.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form24.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form25.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form26.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form27.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form28.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form29.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form3.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form30.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form4.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form5.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form6.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form7.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form8.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form9.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Resources.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.vbproj.GenerateResource.Cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.exe
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.xml
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.pdb
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.exe
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.xml
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.pdb
+I:\CD\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.exe
+I:\CD\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.pdb
+I:\CD\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.xml
+I:\CD\SportsDayManager\SportsDayManager\bin\Release\MySql.Data.dll
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\ResolveAssemblyReference.cache
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form1.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form10.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form11.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form12.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form13.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form14.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form15.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form16.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form17.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form18.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form19.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form2.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form20.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form21.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form22.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form23.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form24.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form25.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form26.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form27.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form28.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form29.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form3.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form30.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form4.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form5.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form6.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form7.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form8.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form9.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Resources.resources
+I:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.vbproj.GenerateResource.Cache
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.exe
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.xml
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.pdb
+G:\CD\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.exe
+G:\CD\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.pdb
+G:\CD\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.xml
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\ResolveAssemblyReference.cache
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form1.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form10.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form11.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form12.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form13.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form14.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form15.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form16.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form17.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form18.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form19.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form2.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form20.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form21.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form22.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form23.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form24.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form25.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form26.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form27.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form28.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form29.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form3.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form30.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form4.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form5.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form6.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form7.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form8.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form9.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Resources.resources
+G:\CD\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.vbproj.GenerateResource.Cache
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.exe
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.xml
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.pdb
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.exe
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.pdb
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\bin\Release\SportsDayManager.xml
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\bin\Release\MySql.Data.dll
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\ResolveAssemblyReference.cache
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form1.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form10.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form11.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form12.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form13.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form14.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form15.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form16.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form17.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form18.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form19.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form2.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form20.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form21.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form22.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form23.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form24.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form25.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form26.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form27.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form28.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form29.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form3.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form30.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form4.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form5.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form6.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form7.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form8.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Form9.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\WindowsApplication1.Resources.resources
+I:\CS-Coursework[Final][27012010]\SportsDayManager\SportsDayManager\obj\Release\SportsDayManager.vbproj.GenerateResource.Cache

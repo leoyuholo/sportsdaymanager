@@ -1,0 +1,50 @@
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Debug\EventRegister.exe
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Debug\EventRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Debug\EventRegister.xml
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.exe
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.xml
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Computer Studies CourseWork\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form2.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.exe
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.xml
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.pdb
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Debug\EventRegister.exe
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Debug\EventRegister.pdb
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Debug\EventRegister.xml
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form1.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form2.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.Resources.resources
+C:\Documents and Settings\Remote\桌面\SportsDayManager\EventRegister\obj\Debug\EventRegister.vbproj.GenerateResource.Cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Debug\EventRegister.exe
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Debug\EventRegister.pdb
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Debug\EventRegister.xml
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\bin\Debug\MySql.Data.dll
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\ResolveAssemblyReference.cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form1.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form2.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.Resources.resources
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.vbproj.GenerateResource.Cache
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.exe
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.xml
+E:\Computer Studies CourseWork\CS-Coursework[20100124]\SportsDayManager\EventRegister\obj\Debug\EventRegister.pdb
+G:\CD\SportsDayManager\EventRegister\bin\Debug\EventRegister.exe
+G:\CD\SportsDayManager\EventRegister\bin\Debug\EventRegister.pdb
+G:\CD\SportsDayManager\EventRegister\bin\Debug\EventRegister.xml
+G:\CD\SportsDayManager\EventRegister\obj\Debug\ResolveAssemblyReference.cache
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form1.resources
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.Form2.resources
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.Resources.resources
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.vbproj.GenerateResource.Cache
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.exe
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.xml
+G:\CD\SportsDayManager\EventRegister\obj\Debug\EventRegister.pdb
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Debug\EventRegister.exe
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Debug\EventRegister.xml
+I:\CS-Coursework[Final][27012010]\SportsDayManager\EventRegister\obj\Debug\EventRegister.pdb
